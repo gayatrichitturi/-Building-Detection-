@@ -1,0 +1,7 @@
+{
+"augs":[
+"FLIP_UD",
+"FLIP_LR"],
+"mean":"ARITH",
+"bits":8
+}
